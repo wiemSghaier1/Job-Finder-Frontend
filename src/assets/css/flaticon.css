@@ -1,0 +1,59 @@
+@font-face {
+  font-family: "flaticon";
+  src: url("./flaticon.ttf?75cefd814abc88bd95c58bc5570b977f") format("truetype"),
+    url("./flaticon.woff?75cefd814abc88bd95c58bc5570b977f") format("woff"),
+    url("./flaticon.woff2?75cefd814abc88bd95c58bc5570b977f") format("woff2"),
+    url("./flaticon.eot?75cefd814abc88bd95c58bc5570b977f#iefix")
+      format("embedded-opentype"),
+    url("./flaticon.svg?75cefd814abc88bd95c58bc5570b977f#flaticon")
+      format("svg");
+}
+
+i[class^="flaticon-"]:before,
+i[class*=" flaticon-"]:before {
+  font-family: flaticon !important;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-data-encryption:before {
+  content: "\f101";
+}
+.flaticon-brain:before {
+  content: "\f102";
+}
+.flaticon-data-science:before {
+  content: "\f103";
+}
+.flaticon-computer:before {
+  content: "\f104";
+}
+.flaticon-technical-support:before {
+  content: "\f105";
+}
+.flaticon-network:before {
+  content: "\f106";
+}
+.flaticon-innovation:before {
+  content: "\f107";
+}
+.flaticon-coding:before {
+  content: "\f108";
+}
+.flaticon-app-development:before {
+  content: "\f109";
+}
+.flaticon-laptop:before {
+  content: "\f10a";
+}
+.flaticon-computer-1:before {
+  content: "\f10b";
+}
+.flaticon-technical-support-1:before {
+  content: "\f10c";
+}

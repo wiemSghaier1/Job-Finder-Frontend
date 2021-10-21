@@ -1,0 +1,13 @@
+{
+    "header": {
+        "home": "Acceuil",
+        "find": "Trouver emplois",
+        "profiles": "Trouver profiles",
+        "about": "A propos",
+        "recruter": "Je suis un recruteur",
+        "jobSeeker": "Decrocher un emploi",
+        "register": "Inscivez vous",
+        "login": "Conexion",
+        "logout": "Déconnexion"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "header": {
+        "home": "Home",
+        "find": "Find Jobs",
+        "profiles": "Find profiles",
+        "about": "About",
+        "recruter": "I'm a recruter",
+        "jobSeeker": "Get hired",
+        "register": "Register",
+        "login": "Login",
+        "logout": "Logout"
+    }
+}

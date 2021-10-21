@@ -1,0 +1,13 @@
+.success-page {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: column;
+}
+.done {
+  width: 20%;
+  /* height: 100px; */
+}
+.thank-you {
+  width: 50%;
+}
